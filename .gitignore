@@ -1,0 +1,9 @@
+*.pdf
+*.odp
+*.txt
+*.odg
+*.zip
+.~lock*
+*.class
+Prácticos/
+Prueba/
