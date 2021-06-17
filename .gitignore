@@ -2,8 +2,13 @@
 *.odp
 *.txt
 *.odg
-*.zip
 .~lock*
 *.class
+*.mp4
+*.jpeg
+*.eap
 Prácticos/
 Prueba/
+Ordenes/
+
+
